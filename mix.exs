@@ -42,6 +42,7 @@ defmodule PhxGraphqlApi.MixProject do
       {:jason, "~> 1.0"},
       {:plug_cowboy, "~> 2.0"},
       {:absinthe, "~> 1.4"},
+      {:poison, "~> 3.1"}
     ]
   end
 
